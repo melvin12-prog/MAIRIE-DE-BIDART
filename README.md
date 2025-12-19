@@ -18,3 +18,13 @@ Mise en place de profil itinérant pour le maire et son adjointe
 
 Pour Mr le maire et son adjointe il faut mettre en place un profil itinérant car ils sont amenés à utiliser 2 postes différents (1 portables en mobilité et un poste fixe dans leur bureau).
 
+Suite à la réalisation de la maquette vous devez adresser au responsable des services techniques de la mairie de Bidart un dossier technique de migration et mise en place des profils itinérants. 
+
+Ce dossier doit comprendre :
+
+Méthodologie de migration AD avec durée de coupure estimée
+
+Méthodologie de migration de fichiers, outils utilisés, commandes utilisées, coupure estimée
+
+Configuration pour la mise en place des profils itinérants pour Mr le maire et son adjointe.
+
