@@ -12,19 +12,3 @@ Migration de serveur AD/DNS : Il souhaite migrer le service Active Directory sur
 
 Migration du serveur de fichier : Tout comme le service Active Directory, il souhaite migrer ce service sur un serveur W2019. La migration va se dérouler en journée, la coupure de service devra donc être la plus réduite possible.
 
-Conseil : utilisez l’outil Robocopy
-
-Mise en place de profil itinérant pour le maire et son adjointe
-
-Pour Mr le maire et son adjointe il faut mettre en place un profil itinérant car ils sont amenés à utiliser 2 postes différents (1 portables en mobilité et un poste fixe dans leur bureau).
-
-Suite à la réalisation de la maquette vous devez adresser au responsable des services techniques de la mairie de Bidart un dossier technique de migration et mise en place des profils itinérants. 
-
-Ce dossier doit comprendre :
-
-Méthodologie de migration AD avec durée de coupure estimée
-
-Méthodologie de migration de fichiers, outils utilisés, commandes utilisées, coupure estimée
-
-Configuration pour la mise en place des profils itinérants pour Mr le maire et son adjointe.
-
